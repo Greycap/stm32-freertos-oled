@@ -1,0 +1,40 @@
+# ===== Keil MDK 编译产物与列表 =====
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/DebugConfig/
+MDK-ARM/F260908test/
+MDK-ARM/RTE/
+*.o
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.crf
+*.d
+*.dep
+*.htm
+*.build_log.htm
+*.iex
+*.sct
+*.lnp
+*.scvd
+
+# ===== Keil 用户个人配置文件（绝对不上传） =====
+*.uvguix.*
+*.uvoptx
+*.bak
+*.orig
+
+# ===== STM32CubeMX 临时文件 =====
+*.mxproject
+
+# ===== 操作系统垃圾文件 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 压缩包 =====
+*.zip
+*.rar
+*.7z
